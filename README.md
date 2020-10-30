@@ -34,7 +34,7 @@ The datasets are not available publicly . But you can mail the publisher and the
 
 # 8. Model Architecture
 
-![image](https://github.com/Ashish-Gore/Forge-or-Real-Signature-Detection-using-Deep-Learning/templates/blob/main/Screenshot%20from%202020-10-29%2002-09-27.png)
+![image](https://github.com/Ashish-Gore/Forge-or-Real-Signature-Detection-using-Deep-Learning/blob/main/templates/Screenshot%20from%202020-10-29%2002-09-27.png)
 
 # 9.RESULTS
 
@@ -42,7 +42,7 @@ The datasets are not available publicly . But you can mail the publisher and the
 
 # 10. Web App Demo
 
-![alt-text](https://github.com/Ashish-Gore/Forge-or-Real-Signature-Detection-using-Deep-Learning/templates/blob/main/Animated%20GIF-downsized.gif)
+![alt-text](https://github.com/Ashish-Gore/Forge-or-Real-Signature-Detection-using-Deep-Learning/blob/main/templates/Animated%20GIF-downsized.gif)
 
 # 11. Motivation
 
