@@ -1,11 +1,5 @@
 # Real-Forge-Signature-Detection
 
-![image](https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/port_signature.jpg?itok=GazzUq75)
-
-
-
-**In this project we have implemented a deep learning research paper it can be found** [here](https://philarchive.org/archive/ALAHSV)
-
 
 # 1. Introduction
 
